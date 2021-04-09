@@ -23,5 +23,7 @@ Utilisez DevOps dans le cloud pour gagner en agilité sur le développement logi
 ### Autres Outils Cloud DevOps
 ![autre outils devops cloud](autreOutilsdevops.png)
 
+## Les Processus DevOps
+![Process DevOps](processusdevops.png)
 
 
