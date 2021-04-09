@@ -26,4 +26,7 @@ Utilisez DevOps dans le cloud pour gagner en agilité sur le développement logi
 ## Les Processus DevOps
 ![Process DevOps](processusdevops.png)
 
+## Les Orchestrations des Processus DevOps
+![Process DevOps](orchestractiondevops.png)
+
 
