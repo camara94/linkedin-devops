@@ -10,4 +10,13 @@ Utilisez DevOps dans le cloud pour gagner en agilité sur le développement logi
 #### Azure DevOps/Test Lab
 ![outilsdevopsms](outilsdevopmsazuredevtestlab.png)
 
+### Les Outils Cloud DevOps de Google
+#### Services CaaS
+![outilsdevopscaasgoogle](outilsdevopsgoogleCaaS.png)
+
+#### Services PaaS
+![outilsdevopscaasgoogle](outilsdevopsgooglePaaS.png)
+
+#### Services IaaS
+![outilsdevopscaasgoogle](outilsdevopsgoogleIaaS.png)
 
