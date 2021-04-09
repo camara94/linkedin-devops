@@ -20,3 +20,8 @@ Utilisez DevOps dans le cloud pour gagner en agilité sur le développement logi
 #### Services IaaS
 ![outilsdevopscaasgoogle](outilsdevopsgoogleIaaS.png)
 
+### Autres Outils Cloud DevOps
+![autre outils devops cloud](autreOutilsdevops.png)
+
+
+
