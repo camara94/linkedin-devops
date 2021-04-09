@@ -4,3 +4,10 @@ Utilisez DevOps dans le cloud pour gagner en agilité sur le développement logi
 ## Découvrir les services DevOps cloud
 ### Les Outils Cloud DevOps d'AWS
 ![outils devops aws](outilsdevopsaws.png)
+### Les Outils Cloud DevOps de Microsoft
+#### Différents processus et outils
+![outilsdevopsms](outilsdevopmstitre.png)
+#### Azure DevOps/Test Lab
+![outilsdevopsms](outilsdevopmsazuredevtestlab.png)
+
+
