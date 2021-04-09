@@ -35,5 +35,8 @@ Utilisez DevOps dans le cloud pour gagner en agilité sur le développement logi
 ## Les Avant et Après DevOps
 ![Process DevOps](avantetappresdevops.png)
 
+## Le But de DevOps
+![Process DevOps](butdevops.png)
+
 
 
