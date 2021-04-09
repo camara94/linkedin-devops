@@ -29,4 +29,11 @@ Utilisez DevOps dans le cloud pour gagner en agilité sur le développement logi
 ## Les Orchestrations des Processus DevOps
 ![Process DevOps](orchestractiondevops.png)
 
+## Les Avantages de DevOps
+![Process DevOps](avantagesdevops.png)
+
+## Les Avant et Après DevOps
+![Process DevOps](avantetappresdevops.png)
+
+
 
